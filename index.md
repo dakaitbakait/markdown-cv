@@ -7,7 +7,7 @@ Co-Founder, CTO
 
   
 <div id="webaddress">
-<a href="prasanjit@gmail.com">prasanjit@gmail.com</a>
+<a href="mailto:prasanjit@gmail.com">prasanjit@gmail.com</a>
 | <a href="https://github.com/dakaitbakait">Github</a>
 </div>
 
