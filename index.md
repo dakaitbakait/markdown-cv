@@ -47,7 +47,7 @@ __Co-Founder/CTO__, Zlott
   * As a solo contributor managed all the digital infrastructure.
 
 `2018-2019`
-__Consultant__, Talental
+__Consultant__, Talentel
 
 - Talentel is a Digital 'Talent Intelligence' Platform for Faculty & Students
   of Educational Institutes to Perform Better through Effective -
@@ -103,12 +103,12 @@ __Business Analyst__, marketRx (now part of Cognizant)
     prescription data for their biggest customers.
   * Created presentations with key business insights for customers.
   * Implemented performance improvements in ETL.
-  * Owned and managed a internal optimization tool written in C++.
+  * Owned and managed an internal optimization tool written in C++.
 
 ## Education
 
 `2003 - 2008`
 __Indian Institute of Technology, Kanpur__
-- Masters of Science(Integrated), Physics
+- Master of Science(Integrated), Physics
 
 <!-- ### Footer Last updated: Nov 2020 -->
