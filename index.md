@@ -36,7 +36,7 @@ __Co-Founder/CTO__, Zlott
 - Zlott is an intelligent tech sourcing product to get your hiring needs
   fulfilled. We have paying customers and have filled more than 30 high value roles.
   * Designed and built the entire product from scratch leveraging technologies such as Kafka, SQL and the ELK stack.
-  * Managed a team of 2 people to build and deploy the customer facing single
+  * Managed a team people to build and deploy the customer facing single
     page web application.
   * Envisioned, collaborated and supervised building data science features in
     the application.
@@ -89,8 +89,8 @@ __Analytics Manager__, Fullerton Securities & Wealth Advisors
  
 - Principal owner for analytics across the company. Worked directly with
   the CXO's and business heads to deliver key business insights. Managed a team
-  of 4 people to
-  * Work cross functionally with the call center and sales teams to improve
+  of people to
+  * Work cross functionally with the call centers and sales teams to improve
     sales and align incentives.
   * Work closely with marketing team to drive campaigns and identify x-sell
     opportunities.
