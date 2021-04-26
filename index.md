@@ -53,7 +53,8 @@ __Consultant__, Talentel
   of Educational Institutes to Perform Better through Effective -
   Performance Management, Learning & Development and Rewards & Recognition.
   * Helped setup agile processes for development
-  * Managed and helped scale infrastructure
+  * Managed and helped scale infrastructure.
+  * Managed website content development and helped build seo stratergy.
 
 `2018-2019`
 __Consultant__, Cogitohub
@@ -63,6 +64,7 @@ __Consultant__, Cogitohub
   on Subjects, Courses & Colleges. 
   * Helped setup agile processes for development
   * Managed and helped scale infrastructure
+  * Managed website content development and helped build seo stratergy
 
 `2014-2015`
 __Product Consultant__, MeraJob India
@@ -75,6 +77,7 @@ __Product Consultant__, MeraJob India
   * Managed a team of 10 people who built the product.
   * Designed tested and built internal analytics tools, processes and
     algorithms. 
+  * Managed a team to build website design, content and seo stratergy.
 
 `2013-2014`
 __Co-Founder/CTO__, Places'nPals
@@ -83,6 +86,10 @@ __Co-Founder/CTO__, Places'nPals
   * Managed a team of 4 people to designed and build the tech product.
   * Managed a call center of 10 people and a sales team of 4 people to register
     over 5000 unique properties with our portal.
+  * Managed a team to design the website
+  * Managed a team to build website content
+  * Created and executed seo stratergy to drive traffic to website on a very
+    limited budget 
 
 `2010-2012`
 __Analytics Manager__, Fullerton Securities & Wealth Advisors
@@ -94,6 +101,8 @@ __Analytics Manager__, Fullerton Securities & Wealth Advisors
     sales and align incentives.
   * Work closely with marketing team to drive campaigns and identify x-sell
     opportunities.
+  * Build email marketing channel
+  * Develop website content and seo to drive user traffic to our website 
 
 `2008 - 2010`
 __Business Analyst__, marketRx (now part of Cognizant)
