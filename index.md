@@ -23,7 +23,7 @@ Administration, Akka, Django, Flask, Reactive Programming.
 
 ### Other Skills
 
-Team Building & Mentoring, Cross Functional Supervision,
+Content Development, SEO, Team Building & Mentoring, Cross Functional Supervision,
 Product Building, Vendor Management, Client Relations & Presentations,
 Business & IT Planning, Requirement Analysis, Costing & Budgeting, Project
 Scheduling
